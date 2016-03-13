@@ -15,5 +15,6 @@ Transforme un pdf en image 'png' isole une zone de l'image 'crop' et converti l'
 
 ##Répertoires de travail
 Le répertoire de base des fichiers PDF à taiter se trouve dans ".\pdf"
+
 Le répertoire de destination des fichiers traités se trouve dans ".\pdf\fait"
 
