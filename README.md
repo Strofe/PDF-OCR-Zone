@@ -4,7 +4,7 @@ Renomme un fichier PDF en fonction du texte contenu dans une zone
 --------------------------------------------------------------------------------------------------------------------------
 - Objectifs  : En fonction d'une zone contenue dans un fichier PDF renomme le fichier et enregistre le dans un répertoire
 --------------------------------------------------------------------------------------------------------------------------
-- Liens utiles que j'ai trouvé utiles
+- Liens que j'ai trouvé utiles
 - http://stackoverflow.com/questions/13984357/pythonmagick-cant-find-my-pdf-files
 - http://p-s.co.nz/wordpress/pdf-to-png-using-pythonmagick/
 - http://stackoverflow.com/questions/3964681/find-all-files-in-directory-with-extension-txt-in-python
