@@ -9,9 +9,11 @@ En fonction d'une zone contenue dans un fichier PDF renomme le fichier et enregi
 
 Liens que j'ai trouvé utiles
 ----------------------------
+```
 http://stackoverflow.com/questions/13984357/pythonmagick-cant-find-my-pdf-files
 http://p-s.co.nz/wordpress/pdf-to-png-using-pythonmagick
 http://stackoverflow.com/questions/3964681/find-all-files-in-directory-with-extension-txt-in-python
+```
 
 Mécanismes
 ----------
@@ -19,5 +21,7 @@ Transforme un pdf en image 'png' isole une zone de l'image 'crop' et converti l'
 
 Répertoires de travail
 ----------------------
+```
 Le répertoire de base des fichiers PDF à taiter se trouve dans ".\pdf"
 Le répertoire de destination des fichiers traités se trouve dans ".\pdf\fait"
+```
