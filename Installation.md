@@ -8,5 +8,6 @@ Installation des fichiers nécessaires
 0. télécharger et installer ImageMagick-6.9.3-7-Q16-x86-dll.exe (ou version plus récente) depuis http://www.imagemagick.org/script/binary-releases.php
 0. télécharger http://www.lfd.uci.edu/~gohlke/pythonlibs/#pythonmagick --> PythonMagick-0.9.10-cp27-none-win32.whl
   - pip install PythonMagick-0.9.10-cp27-none-win32.whl
+  - http://zqpythonic.qiniucdn.com/data/20101216091618/index.html
 0. ajouter le package pytesseract
   - pip install pytesseract
