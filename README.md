@@ -14,6 +14,7 @@ http://stackoverflow.com/questions/3964681/find-all-files-in-directory-with-exte
 Transforme un pdf en image 'png' isole une zone de l'image 'crop' et converti l'image en texte. Déplace et renomme le fichier pdf suivant le texte dans la zone de l'image. Affiche un rapport d'activité et efface les traces des fichiers inutiles
 
 ##Répertoires de travail
-```Le répertoire de base des fichiers PDF à taiter se trouve dans ".\pdf"
+```
+Le répertoire de base des fichiers PDF à taiter se trouve dans ".\pdf"
 Le répertoire de destination des fichiers traités se trouve dans ".\pdf\fait"
 ```
