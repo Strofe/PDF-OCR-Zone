@@ -15,4 +15,3 @@ Mécanismes
 Répertoires de travail
 	Le répertoire de base des fichiers PDF à taiter se trouve dans ".\pdf"
 	Le répertoire de destination des fichiers traités se trouve dans ".\pdf\fait"
-
